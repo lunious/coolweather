@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cool_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.lunioussky.coolweather.db.Province" />
+        <mapping class="com.lunioussky.coolweather.db.City" />
+        <mapping class="com.lunioussky.coolweather.db.Country" />
+    </list>
+</litepal>
